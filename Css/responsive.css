@@ -1,0 +1,9 @@
+@media (min-width: 576px) and (max-width: 767px) {
+  .common-btn {
+    display: none;
+  }
+
+  .navbar-toggler {
+    margin-right: -210px;
+  }
+}
